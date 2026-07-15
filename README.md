@@ -20,5 +20,9 @@ Analyze location-based sales data to identify suitable areas for business expans
 ## Results
 Mumbai, Delhi and Bangalore showed higher sales compared to other cities and are recommended for future expansion.
 
+## Note
+The interactive map was generated using Folium and saved as sales_map.html.
+GitHub notebook preview may not display the map correctly. Therefore, a map screenshot has been included in the repository.
+
 ## Conclusion
 Geospatial analysis helps organizations make data-driven decisions by combining sales and location information.
